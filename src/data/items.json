@@ -3,60 +3,72 @@
         "id": 1,
         "name": "Lemonade Stand",
         "price": 10.99,
-        "imgurl":"https://imgs.michaels.com/MAM/assets/1/5E3C12034D34434F8A9BAAFDDF0F8E1B/img/4C8ECF47F74A410F94EE4844A4C9C637/10705667_1.jpg?fit=inside|220:220"
+        "imgUrl":"https://imgs.michaels.com/MAM/assets/1/5E3C12034D34434F8A9BAAFDDF0F8E1B/img/4C8ECF47F74A410F94EE4844A4C9C637/10705667_1.jpg?fit=inside|220:220"
     },
     {
         "id": 2,
         "name": "Honey & Vanilla",
         "price": 10.99,
-        "imgurl":"https://imgs.michaels.com/MAM/assets/1/5E3C12034D34434F8A9BAAFDDF0F8E1B/img/29098BFEEC664B74B3EEE26DD7ECEED9/10705664_1.jpg?fit=inside|220:220"
+        "imgUrl":"https://imgs.michaels.com/MAM/assets/1/5E3C12034D34434F8A9BAAFDDF0F8E1B/img/29098BFEEC664B74B3EEE26DD7ECEED9/10705664_1.jpg?fit=inside|220:220"
     },
     {
         "id": 3,
         "name": "Honey Pear",
         "price": 10.99,
-        "imgurl":"https://imgs.michaels.com/MAM/assets/1/5E3C12034D34434F8A9BAAFDDF0F8E1B/img/B9DA68FE53DF47B881079334946F280F/10705666_1.jpg?fit=inside|220:220"
+        "imgUrl":"https://imgs.michaels.com/MAM/assets/1/5E3C12034D34434F8A9BAAFDDF0F8E1B/img/B9DA68FE53DF47B881079334946F280F/10705666_1.jpg?fit=inside|220:220"
     },
     {
         "id": 4,
         "name": "Strawberries & Cream",
         "price": 10.99,
-        "imgurl":"https://imgs.michaels.com/MAM/assets/1/5E3C12034D34434F8A9BAAFDDF0F8E1B/img/996C54F4999C4A67BAC2D7E6A935D9D5/10705663_1.jpg?fit=inside|220:220"
+        "imgUrl":"https://imgs.michaels.com/MAM/assets/1/5E3C12034D34434F8A9BAAFDDF0F8E1B/img/996C54F4999C4A67BAC2D7E6A935D9D5/10705663_1.jpg?fit=inside|220:220"
     },
     {
         "id": 5,
         "name": "Rainbow Sherbert",
         "price": 10.99,
-        "imgurl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpZOKYwt8oes2iuwk6c-3tKVCjAeG3Af_hen_YFZI0w-so2PI85L05MMStu98bdF7Fj70&usqp=CAU"
+        "imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpZOKYwt8oes2iuwk6c-3tKVCjAeG3Af_hen_YFZI0w-so2PI85L05MMStu98bdF7Fj70&usqp=CAU"
     },
     {
         "id": 6,
         "name": "Pineapple Guava",
         "price": 10.99,
-        "imgurl":"https://imgs.michaels.com/MAM/assets/1/5E3C12034D34434F8A9BAAFDDF0F8E1B/img/7D574C5948F548FDA9A609F7926658FE/10709775_1.jpg?fit=inside|220:220"
+        "imgUrl":"https://imgs.michaels.com/MAM/assets/1/5E3C12034D34434F8A9BAAFDDF0F8E1B/img/7D574C5948F548FDA9A609F7926658FE/10709775_1.jpg?fit=inside|220:220"
     },
     {
         "id": 7,
         "name": "Lily & Sweet Pea",
         "price": 10.99,
-        "imgurl":"https://imgs.michaels.com/MAM/assets/1/5E3C12034D34434F8A9BAAFDDF0F8E1B/img/1D55E8EFAC074F54B80D2B1E06E1FC60/10705668_1.jpg?fit=inside|220:220"
+        "imgUrl":"https://imgs.michaels.com/MAM/assets/1/5E3C12034D34434F8A9BAAFDDF0F8E1B/img/1D55E8EFAC074F54B80D2B1E06E1FC60/10705668_1.jpg?fit=inside|220:220"
     },
     {
         "id": 8,
         "name": "Mistletoe & Holly",
         "price": 10.99,
-        "imgurl":"https://imgs.michaels.com/MAM/assets/1/5E3C12034D34434F8A9BAAFDDF0F8E1B/img/5948DCB3C2074541ADAAEA9352449A5B/10699761_1.jpg?fit=inside|220:220"
+        "imgUrl":"https://imgs.michaels.com/MAM/assets/1/5E3C12034D34434F8A9BAAFDDF0F8E1B/img/5948DCB3C2074541ADAAEA9352449A5B/10699761_1.jpg?fit=inside|220:220"
     },
     {
         "id": 9,
         "name": "Clove & Orange",
         "price": 10.99,
-        "imgurl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMrNpuw5ltiRCbXeIzdEZj2XC8VBryRxezrB0bx2aT_k7h7jkK0AbBnQlPq9BXBOH_4uw&usqp=CAU"
+        "imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMrNpuw5ltiRCbXeIzdEZj2XC8VBryRxezrB0bx2aT_k7h7jkK0AbBnQlPq9BXBOH_4uw&usqp=CAU"
     },
     {
         "id": 10,
         "name": "Frosted Sugar Cookie",
         "price": 10.99,
-        "imgurl":"https://imgs.michaels.com/MAM/assets/1/5E3C12034D34434F8A9BAAFDDF0F8E1B/img/E6D6BA7795A94A36AC9EDB82AE7E7216/10675789_1.jpg?fit=inside|220:220"
+        "imgUrl":"https://imgs.michaels.com/MAM/assets/1/5E3C12034D34434F8A9BAAFDDF0F8E1B/img/E6D6BA7795A94A36AC9EDB82AE7E7216/10675789_1.jpg?fit=inside|220:220"
+    },
+    {
+        "id": 11,
+        "name": "Lavender Fields",
+        "price": 10.99,
+        "imgUrl": "https://imgs.michaels.com/MAM/assets/1/5E3C12034D34434F8A9BAAFDDF0F8E1B/img/222925DEB3224FAEBD255120C2252305/10705671_1.jpg?fit=inside|540:540"
+    },
+    {
+        "id": 12,
+        "name": "Sea Breeze",
+        "price": 10.99,
+        "imgUrl": "https://imgs.michaels.com/MAM/assets/1/5E3C12034D34434F8A9BAAFDDF0F8E1B/img/C5A78E51C94D40B4A0305B7EBBB4D39C/10705670_1.jpg?fit=inside|220:220"
     }
 ]

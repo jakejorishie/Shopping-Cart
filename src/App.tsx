@@ -4,12 +4,13 @@ import { Home } from "./pages/Home";
 import { About } from "./pages/About";
 import { Store } from "./pages/Store";
 import { Navbar } from "./components/Navbar";
+import { ShoppingCartProvider } from "./context/ShoppingCartContext";
 
 
 function App() {
 
   return (
-    <>
+    <ShoppingCartProvider>
     <Navbar /> 
     <Container className="mb-4">
       <Routes>
@@ -18,7 +19,7 @@ function App() {
         <Route path="/about" element={<About />} />
       </Routes>
     </Container>
-    </>
+    </ShoppingCartProvider>
   )
 }
 
