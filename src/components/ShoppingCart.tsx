@@ -13,14 +13,14 @@ export function ShoppingCart({ isOpen }: ShoppingCartProps) {
   return (
     <Offcanvas show={isOpen} onHide={closeCart} placement="end">
       <Offcanvas.Header closeButton>
-        <Offcanvas.Title>Cart</Offcanvas.Title>
+        <Offcanvas.Title style={{fontFamily: 'Kaisei Decol'}}>Cart</Offcanvas.Title>
       </Offcanvas.Header>
       <Offcanvas.Body>
         <Stack gap={3}>
           {cartItems.map(item => (
             <CartItem key={item.id} {...item} />
           ))}
-          <div className="ms-auto fw-bold fs-5">
+          <div className="ms-auto fw-bold fs-5" style={{fontFamily: 'Kaisei Decol'}}>
             Total{" "}
             {formatCurrency(
               cartItems.reduce((total, cartItem) => {
